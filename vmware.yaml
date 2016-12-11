@@ -1,0 +1,11 @@
+name: vmware
+org: VMware
+text: VMware End User License Agreement
+url: http://www.vmware.com/download/eula/universal_eula.html
+retrieved: 2016-12-11 13:18:10+01:00
+def: >
+        “Open Source Software” or “OSS” means software components
+        embedded in the Software and provided under separate license
+        terms, which can be found either in the open_source_licenses.txt
+        file (or similar file) provided within the Software or at
+        www.vmware.com/download/open_source.html.
