@@ -24,7 +24,10 @@ as well as an
 
 Unfortunately, this indirect definition
 is not always convenient for legal documents.
+It should be noted that a *lot* of EULAs
+make reference to "Open Source software"
+without providing any definition.
 
 This repository collects different defintions
-of "Open Source Software" as found in various documents.
+of "Open Source Software" as found in various legal documents.
 
