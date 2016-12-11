@@ -1,0 +1,15 @@
+name: dispel
+org: Dispel
+text: End User License Agreement
+url: https://dispel.io/legal/end-user-license-agreement
+date: 2015-12-09
+retrieved: 2016-12-11 13:08:49+01:00
+def: >
+        “Open Source Software” means all software, documentation and
+        other material that is distributed as “free software,” “open
+        source software” or under a similar licensing or distribution model,
+        including, but not limited to, the GNU General Public License (GPL), GNU
+        Affero General Public License (AGPL), GNU Lesser General Public License
+        (LGPL), Mozilla Public License (MPL), Berkeley Software Distribution (BSD)
+        license, MIT License, Apache License or any other license described by
+        the Open Source Initiative as set forth on www.opensource.org.
