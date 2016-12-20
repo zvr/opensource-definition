@@ -1,0 +1,11 @@
+name: mapr
+org: MapR
+text: MapR End User License Agreement
+url: https://www.mapr.com/resources/eula
+retrieved: 2016-12-20 15:16:34+01:00
+def: >
+        “Open Source Software” means any third party software
+        that is distributed as “free software”, “open source software”
+        or under a similar licensing or distribution model.
+        Without limiting the generality of the foregoing,
+        Apache Hadoop, Apache Solr and Apache Lucene are Open Source Software.
