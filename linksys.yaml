@@ -1,0 +1,14 @@
+name: linksys
+org: Belkin
+text: Belkin International, Inc. End User License Agreement
+url: http://www.linksys.com/us/end-user-license-agreement/
+retrieved: 2016-12-20 15:20:44+01:00
+def: >
+        “Open Source Software” means any software or software component or technology
+        that is subject to an open source license. Open source licenses are generally
+        licenses that make source code available for free modification and distribution,
+        but can also apply to technology received and distributed solely in object code form.
+        Examples of open source licenses include:
+        (a) GNU's General Public License (GPL) or Lesser/Library GPL (LGPL);
+        (b) the OpenSSL License; (c) the Mozilla Public License;
+        (d) the Berkeley Software Distribution (BSD) License; and (e) the Apache License.
