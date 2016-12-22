@@ -1,9 +1,8 @@
-name: Alcatel-Lucent
+name: alcatel-lucent
 org: Alcatel-Lucent
-text: Alcatel-Lucent FOSS Clause
+date: 2012-06-25
 url: https://lists.spdx.org/pipermail/spdx/2012-June/000707.html
 retrieved: 2016-12-21 14:09:12-08:00
-
 def: >
   "Free and/or Open Source Software" or "FOSS" means (i) software provided to 
   Licensor royalty-free in source code form, under a license including, but 
@@ -14,3 +13,4 @@ def: >
   initial charge, such as on a trial basis, but where a fee may become due once 
   the user decides to use the software beyond the trial period, or (iv) public 
   domain software
+comment: provided by Michel Ruffin on a public mailing list
